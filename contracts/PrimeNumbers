@@ -22,7 +22,7 @@ function getNearestPrimeNumber(int n) private {
    }
    return -1;
 }
-function main(int n ) public {
+function GetPrimeNumber(int n ) public {
    
    console.log (getNearestPrimeNumber(n));
    return 0;
